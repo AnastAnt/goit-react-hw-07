@@ -1,4 +1,4 @@
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { useEffect } from "react";
 import ContactForm from "./ContactForm";
 import SearchBox from "./SearchBox";
